@@ -1,0 +1,76 @@
+{
+  "animes": [
+    {
+      "id": "1",
+      "title": "Attack on Titan",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 24,
+      "description": "In a world where humanity resides within enormous walled cities to protect themselves from Titans, young Eren Yeager joins the military to fight back.",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "My Hero Academia",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 25,
+      "description": "In a world where nearly every human has superpowers, a powerless boy dreams of becoming a hero.",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Demon Slayer",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 26,
+      "description": "After his family is slaughtered by demons, Tanjiro Kamado becomes a demon slayer to avenge them and save his sister.",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "title": "One Piece",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 24,
+      "description": "Monkey D. Luffy and his pirate crew search for the legendary One Piece treasure to become the next Pirate King.",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "title": "Naruto",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 23,
+      "description": "A young ninja with dreams of becoming the strongest leader in his village struggles with the demon fox spirit sealed within him.",
+      "completed": false
+    },
+    {
+      "id": "6",
+      "title": "Death Note",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 24,
+      "description": "A high school student discovers a supernatural notebook that allows him to kill anyone by writing their name.",
+      "completed": true
+    },
+    {
+      "id": "7",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 24,
+      "description": "Two brothers search for the Philosopher's Stone to restore their bodies after a failed alchemical experiment.",
+      "completed": true
+    },
+    {
+      "id": "8",
+      "title": "Sword Art Online",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 25,
+      "description": "Players are trapped in a virtual reality MMORPG, and they must clear the game to escape.",
+      "completed": true
+    },
+    {
+      "id": "9",
+      "title": "Your Name",
+      "image": "https://img.freepik.com/free-photo/dark-style-ninja-naruto_23-2151278528.jpg?t=st=1730448330~exp=1730451930~hmac=3b58d95b52a8185278467f44849e2b15e21eddc0cff05129bc8fb32a5037634d&w=740",
+      "time": 107,
+      "description": "Two teenagers from different parts of Japan find themselves inexplicably linked through their dreams.",
+      "completed": false
+    }
+  ]
+}
