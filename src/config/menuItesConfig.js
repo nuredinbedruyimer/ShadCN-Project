@@ -1,0 +1,65 @@
+export const discoveriesPageItems = [
+    {
+      id: 1,
+      path: '/discoveries/trending',
+      componentName: 'TrendingAnime',
+      name: 'Trending Anime',
+      description: 'Explore the latest trending anime series and movies.',
+    },
+    {
+      id: 2,
+      path: '/discoveries/new-releases',
+      componentName: 'NewReleases',
+      name: 'New Releases',
+      description: 'Check out recently released anime series and movies.',
+    },
+    {
+      id: 3,
+      path: '/discoveries/top-rated',
+      componentName: 'TopRatedAnime',
+      name: 'Top Rated Anime',
+      description: 'Browse the highest-rated anime based on user reviews.',
+    },
+    {
+      id: 4,
+      path: '/discoveries/genres',
+      componentName: 'GenreExplorer',
+      name: 'Genres',
+      description: 'Explore anime by genre, including Action, Romance, Fantasy, and more.',
+    },
+    {
+      id: 5,
+      path: '/discoveries/upcoming',
+      componentName: 'UpcomingAnime',
+      name: 'Upcoming Anime',
+      description: 'View a list of upcoming anime series and movies.',
+    },
+    {
+      id: 6,
+      path: '/discoveries/staff-picks',
+      componentName: 'StaffPicks',
+      name: 'Staff Picks',
+      description: 'Check out anime recommended by our staff and experts.',
+    },
+    {
+      id: 7,
+      path: '/discoveries/popular-this-season',
+      componentName: 'SeasonalHits',
+      name: 'Popular This Season',
+      description: 'Discover the most popular anime this season.',
+    },
+    {
+      id: 8,
+      path: '/discoveries/movies',
+      componentName: 'AnimeMovies',
+      name: 'Anime Movies',
+      description: 'Browse all anime movies, including the latest releases and classics.',
+    },
+    {
+      id: 9,
+      path: '/discoveries/hidden-gems',
+      componentName: 'HiddenGems',
+      name: 'Hidden Gems',
+      description: 'Find underrated or lesser-known anime series and movies.',
+    }
+];

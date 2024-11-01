@@ -2,7 +2,6 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import AnimeCard from './AnimeCard';
 import Loading from './Loading';
-
 const AnimeList = () => {
 
     const [animeLists, setAnimeLists] = useState(null)
@@ -30,7 +29,7 @@ const AnimeList = () => {
     
   return (
 
-    <div>
+    <div className='px-12'>
         {
             loading ? <Loading/> : (    <div className='grid grid-cols-1 md:grid-cols-2 gap-6 lg:grid-cols-3'>
     {
