@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -60,7 +59,6 @@
   }
 }
 
-
 @layer base {
   * {
     @apply border-border;
@@ -68,13 +66,17 @@
   body {
     @apply bg-background text-foreground;
   }
-  h1{
-    @apply text-4xl text-lime-600 font-extrabold tracking-tight
+  h1 {
+    @apply text-4xl text-lime-600 font-extrabold tracking-tight;
   }
-  h2{
-    @apply text-3xl text-lime-500 font-extrabold text-center border-b-2 pb-3 
+  h3 {
+    @apply text-3xl text-blue-600 font-bold tracking-tight;
   }
-  nav, main{
-    @apply max-w-full mx-16
+  h2 {
+    @apply text-3xl text-lime-500 font-extrabold text-center border-b-2 pb-3;
+  }
+  nav,
+  main {
+    @apply max-w-full mx-16;
   }
 }
